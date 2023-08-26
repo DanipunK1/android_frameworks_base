@@ -1050,4 +1050,13 @@
     <string name="camera_and_microphone_blocked_dream_overlay_content_description" msgid="7891078093416249764">"Cámara y micrófono bloqueados"</string>
     <string name="microphone_blocked_dream_overlay_content_description" msgid="5466897982130007033">"Micrófono bloqueado"</string>
     <string name="priority_mode_dream_overlay_content_description" msgid="6044561000253314632">"Modo Prioridad activado"</string>
+
+    <string name="cloudy">Nublado</string>
+    <string name="rainy">Lluvioso</string>
+    <string name="sunny">Despejado</string>
+    <string name="stormy">Tormentoso</string>
+    <string name="snowy">Nevado</string>
+    <string name="windy">Ventoso</string>
+    <string name="misty">Brumoso</string>
+    <string name="today">Hoy</string>
 </resources>
